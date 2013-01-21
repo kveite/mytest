@@ -1,1 +1,2 @@
 My first bit of text. =)
+And this is some more text
